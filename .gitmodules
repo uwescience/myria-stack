@@ -1,0 +1,6 @@
+[submodule "myria"]
+	path = myria
+	url = https://github.com/uwescience/myria.git
+[submodule "myria-web"]
+	path = myria-web
+	url = https://github.com/uwescience/myria-web.git
