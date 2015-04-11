@@ -4,3 +4,6 @@
 [submodule "myria-web"]
 	path = myria-web
 	url = https://github.com/uwescience/myria-web.git
+[submodule "myria-ec2"]
+	path = myria-ec2
+	url = https://github.com/uwescience/myria-ec2.git
